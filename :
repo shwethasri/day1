@@ -1,0 +1,36 @@
+1st day in training
+strating the linux command
+copying we use cp command
+removing and renaming we ue rm command 
+man command is used for the help regarding to the commands 
+man is the manual documentation
+each command has many options if you want know the  details of the command present in manual documentation
+
+n linux software is called packag
+sudo is command used for getiing admin permission for a certain time
+to install packages we use sudo opt-get package name
+w command used to save a file
+
+version control tools
+these tools are used to get data not modified b4
+
+
+we are using git version control tool
+
+git version control tool has it own  repository
+
+git commands
+
+git clone toget the project which is present in git repository
+
+git commit the modification done by the user to the file
+
+git add is used to add a file to git  repository
+
+git push is used to add commited file to server
+
+git pull is used to get the modified file in server.
+
+we created git reopository by using github.com with the new user created by us. 
+
+

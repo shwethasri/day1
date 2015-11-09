@@ -1,0 +1,38 @@
+1st day of training 
+
+Linux commands
+
+cp, rm, mv
+
+sudo
+
+cp is command is used for copying the files with source and destionation directories.
+
+rm is a command is used for removing and renaming the files
+
+mv is a command is used for moving files
+
+sudo is a command is used to get admin permission for certain time.
+
+if user wants to install a package by using sudo opt.get command here sudo is toget admin permissions and opt.get to install packages.
+
+softwares are called as packages.
+
+packages are stored in repositories
+
+here we use git version control tool
+
+we created git repository by using github.com by using new user account created.
+
+we are using commands are git clone, git commit, git push, git add and git pull
+
+git clone is used to fetch the files which are presented in git repository
+
+git commit is used save the modifications which are done by user 
+
+git add is used to add untracked files to repository
+
+git push is used to the files which are modified will send to git repository
+
+git pull is used to get modified files from git repository.
+ 
